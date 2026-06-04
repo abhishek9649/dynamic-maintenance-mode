@@ -4,7 +4,7 @@
  * Description:  Enable maintenance mode with custom page, user scope and scheduling.
  * Version: 1.0.0
  * License: GPLv2 or later
- * Author: Robust Decoders
+ * Author: Abhishek Sharma
  */
 
 
