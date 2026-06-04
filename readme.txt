@@ -1,5 +1,5 @@
 === Dynamic Maintenance Mode ===
-Contributors: Robust Decoders
+Contributors: Abhishek Sharma 
 Tags: maintenance mode, coming soon, maintenance, site offline, under construction  
 Requires at least: 5.0  
 Tested up to: 6.8  
